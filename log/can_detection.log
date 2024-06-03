@@ -1,0 +1,2588 @@
+2024-05-29 12:05:13,751 - Using device: cpu
+2024-05-29 12:05:16,559 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:16,559 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:16,559 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,567 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:16,567 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:16,567 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,587 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:16,587 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,587 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,592 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:16,592 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,592 - Inference Time: 0.512838 ms
+2024-05-29 12:05:16,594 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:16,594 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:16,594 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,624 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:16,624 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,624 - Inference Time: 0.076771 ms
+2024-05-29 12:05:16,629 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:16,629 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,629 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,632 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:16,632 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,632 - Inference Time: 0.540257 ms
+2024-05-29 12:05:16,654 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:16,654 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:16,654 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,669 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:16,669 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,669 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,673 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:16,673 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,673 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,688 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:16,688 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,688 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,696 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:16,696 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,696 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,704 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:16,704 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:16,704 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,706 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:16,706 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,706 - Inference Time: 0.079155 ms
+2024-05-29 12:05:16,708 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:16,708 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:16,708 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,718 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:16,718 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,718 - Inference Time: 1.018763 ms
+2024-05-29 12:05:16,733 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:16,733 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:16,733 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,741 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:16,741 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,741 - Inference Time: 0.505686 ms
+2024-05-29 12:05:16,747 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:16,748 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,748 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,845 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:16,845 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:16,845 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,853 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:16,853 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,853 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,886 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:16,886 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,886 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,902 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:16,902 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,902 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,910 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:16,910 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:16,910 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,919 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:16,919 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,919 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,925 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:16,925 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,925 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,929 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:16,929 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:16,929 - Inference Time: 0.510216 ms
+2024-05-29 12:05:16,932 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:16,932 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:16,932 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,934 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:16,934 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:16,934 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,971 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:16,971 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,971 - Inference Time: 0.000000 ms
+2024-05-29 12:05:16,979 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:16,979 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:16,979 - Inference Time: 0.512600 ms
+2024-05-29 12:05:16,985 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:16,985 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:16,985 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,001 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:17,001 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,001 - Inference Time: 0.087261 ms
+2024-05-29 12:05:17,013 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:17,013 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,013 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,015 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,015 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,015 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,021 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:17,021 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,021 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,029 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,030 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,030 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,052 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:17,052 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,052 - Inference Time: 0.225067 ms
+2024-05-29 12:05:17,113 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:17,113 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,113 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,122 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,123 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,123 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,125 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:17,125 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,125 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,129 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:17,129 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,129 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,133 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:17,133 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,133 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,147 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,147 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,147 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,159 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:17,159 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,159 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,161 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:17,161 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,161 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,184 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:17,184 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,184 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,205 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:17,205 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,205 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,207 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,207 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,207 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,213 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:17,213 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,213 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,223 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:17,223 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:17,223 - Inference Time: 0.122070 ms
+2024-05-29 12:05:17,227 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:17,227 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,227 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,258 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:17,258 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,258 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,273 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:17,273 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,273 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,287 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:17,288 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,288 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,290 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:17,290 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,290 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,294 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:17,294 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,294 - Inference Time: 0.193119 ms
+2024-05-29 12:05:17,302 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:17,302 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,302 - Inference Time: 0.513077 ms
+2024-05-29 12:05:17,317 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:17,317 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,317 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,335 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:17,335 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,335 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,336 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:17,336 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,337 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,347 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:17,347 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,347 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,376 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:17,376 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,376 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,399 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:17,399 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,399 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,403 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,403 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,403 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,440 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,440 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,440 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,444 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:17,444 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,444 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,452 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:17,452 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,452 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,516 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:17,516 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,516 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,521 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:17,521 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,521 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,523 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:17,523 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,523 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,530 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:17,530 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,530 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,571 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:17,571 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,571 - Inference Time: 0.077724 ms
+2024-05-29 12:05:17,598 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:17,598 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,598 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,601 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:17,601 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,601 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,628 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:17,628 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,628 - Inference Time: 0.513077 ms
+2024-05-29 12:05:17,640 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:17,640 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:17,640 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,649 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:17,650 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,650 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,660 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:17,660 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,660 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,685 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:17,685 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,685 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,689 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:17,689 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,689 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,699 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:17,699 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,699 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,701 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:17,701 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,701 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,703 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:17,703 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,703 - Inference Time: 0.491858 ms
+2024-05-29 12:05:17,719 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:17,719 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,719 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,733 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:17,733 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,733 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,748 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:17,749 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,749 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,776 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:17,776 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,776 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,801 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:17,801 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:17,801 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,810 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,810 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,810 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,820 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:17,820 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,820 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,826 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:17,826 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,826 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,837 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,838 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,838 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,840 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:17,840 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:17,840 - Inference Time: 0.512600 ms
+2024-05-29 12:05:17,846 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:17,846 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,846 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,853 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:17,854 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:17,854 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,860 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,860 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,860 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,864 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,864 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,864 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,881 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:17,882 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,882 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,907 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,907 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,907 - Inference Time: 0.997782 ms
+2024-05-29 12:05:17,914 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:17,914 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,914 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,923 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:17,924 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,924 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,931 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:17,931 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:17,932 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,940 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:17,940 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:17,940 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,961 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,961 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,961 - Inference Time: 0.507832 ms
+2024-05-29 12:05:17,967 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:17,967 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:17,967 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,994 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:17,994 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:17,994 - Inference Time: 0.000000 ms
+2024-05-29 12:05:17,997 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:17,997 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:17,997 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,007 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:18,007 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:18,007 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,024 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:18,024 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,024 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,036 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:18,036 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,036 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,060 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:18,060 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,060 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,072 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:18,072 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,072 - Inference Time: 0.091314 ms
+2024-05-29 12:05:18,077 - Received CAN data - ID: 291, Data: [2, 4, 10, 11, 11, 1, 0, 0]
+2024-05-29 12:05:18,078 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,078 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,109 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:18,109 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,109 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,122 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:18,122 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,122 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,165 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:18,165 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,165 - Inference Time: 0.512362 ms
+2024-05-29 12:05:18,191 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:18,191 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,191 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,203 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:18,203 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,203 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,213 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:18,213 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,213 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,219 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:18,219 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,219 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,227 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:18,227 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:18,227 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,235 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:18,235 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,235 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,236 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:18,236 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,236 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,262 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:18,262 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,262 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,272 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:18,272 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:18,272 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,277 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:18,277 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,277 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,283 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:18,284 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,284 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,306 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:18,306 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,306 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,329 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:18,329 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,329 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,331 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:18,331 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,331 - Inference Time: 0.170708 ms
+2024-05-29 12:05:18,343 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:18,343 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,343 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,387 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:18,387 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,387 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,410 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:18,411 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:18,411 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,424 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:18,424 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,424 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,438 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:18,438 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,438 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,442 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:18,442 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:18,442 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,465 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:18,465 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,465 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,471 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:18,471 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,471 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,517 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:18,518 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,518 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,524 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:18,524 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,524 - Inference Time: 0.513077 ms
+2024-05-29 12:05:18,539 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:18,539 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,539 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,541 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:18,542 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:18,542 - Inference Time: 0.513315 ms
+2024-05-29 12:05:18,553 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:18,553 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:18,553 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,568 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:18,569 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,569 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,588 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:18,588 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,588 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,625 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:18,625 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,625 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,629 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:18,630 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:18,630 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,639 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:18,639 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,639 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,661 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:18,661 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,661 - Inference Time: 0.085592 ms
+2024-05-29 12:05:18,677 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:18,677 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,677 - Inference Time: 0.995636 ms
+2024-05-29 12:05:18,682 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:18,682 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:18,682 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,691 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:18,691 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,691 - Inference Time: 0.296354 ms
+2024-05-29 12:05:18,728 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:18,728 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,728 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,736 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:18,736 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,736 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,744 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:18,744 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,744 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,746 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:18,746 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,746 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,747 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:18,747 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,747 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,770 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:18,770 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,770 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,786 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:18,786 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:18,786 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,801 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:18,801 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,801 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,811 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:18,811 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:18,811 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,823 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:18,823 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,823 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,827 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:18,827 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,827 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,839 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:18,839 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,839 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,862 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:18,862 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:18,862 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,872 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:18,872 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:18,872 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,878 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:18,878 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,878 - Inference Time: 0.077486 ms
+2024-05-29 12:05:18,935 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:18,935 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:18,935 - Inference Time: 0.198841 ms
+2024-05-29 12:05:18,943 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:18,943 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,943 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,945 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:18,945 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,945 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,949 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:18,949 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:18,949 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,983 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:18,983 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,983 - Inference Time: 0.000000 ms
+2024-05-29 12:05:18,989 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:18,989 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:18,989 - Inference Time: 0.088215 ms
+2024-05-29 12:05:19,037 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:19,037 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,037 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,051 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,051 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,051 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,063 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:19,063 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:19,063 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,096 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:19,096 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,096 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,118 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:19,118 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:19,118 - Inference Time: 0.505924 ms
+2024-05-29 12:05:19,123 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:19,123 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,123 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,146 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,147 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,147 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,153 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:19,153 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,153 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,155 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,155 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:19,155 - Inference Time: 0.512600 ms
+2024-05-29 12:05:19,165 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:19,165 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,165 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,187 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,187 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,187 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,210 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,210 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:19,210 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,232 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:19,232 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,232 - Inference Time: 0.080109 ms
+2024-05-29 12:05:19,237 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,237 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,238 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,246 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,246 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:19,246 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,251 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:19,252 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,252 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,262 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:19,262 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:19,262 - Inference Time: 0.512123 ms
+2024-05-29 12:05:19,263 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:19,263 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,263 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,275 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:19,275 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,275 - Inference Time: 0.512838 ms
+2024-05-29 12:05:19,288 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:19,288 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:19,288 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,299 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:19,299 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,299 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,309 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:19,309 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,309 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,315 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:19,315 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:19,315 - Inference Time: 0.094652 ms
+2024-05-29 12:05:19,325 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:19,325 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:19,325 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,327 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:19,327 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,327 - Inference Time: 0.512838 ms
+2024-05-29 12:05:19,377 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:19,377 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:19,377 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,404 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:19,405 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,405 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,418 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:19,419 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,419 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,420 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,420 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:19,420 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,432 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:19,432 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,432 - Inference Time: 0.079393 ms
+2024-05-29 12:05:19,442 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:19,442 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,442 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,444 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:19,444 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:19,444 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,493 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:19,493 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,493 - Inference Time: 0.996590 ms
+2024-05-29 12:05:19,509 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:19,509 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,509 - Inference Time: 0.513315 ms
+2024-05-29 12:05:19,511 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:19,511 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,511 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,593 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:19,593 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:19,593 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,595 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:19,595 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,595 - Inference Time: 0.522852 ms
+2024-05-29 12:05:19,599 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:19,599 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,599 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,620 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,620 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:19,620 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,638 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:19,638 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,638 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,658 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:19,658 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,658 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,674 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:19,674 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,674 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,709 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:19,709 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,709 - Inference Time: 0.285149 ms
+2024-05-29 12:05:19,713 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:19,713 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,713 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,715 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,716 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,716 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,743 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:19,743 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,743 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,751 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,751 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,751 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,763 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:19,763 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,763 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,771 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:19,771 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:19,771 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,782 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:19,783 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:19,783 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,787 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:19,787 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,787 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,802 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:19,802 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,802 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,810 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:19,810 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,810 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,819 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:19,819 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,819 - Inference Time: 0.185013 ms
+2024-05-29 12:05:19,830 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,830 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:19,830 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,840 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:19,840 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:19,840 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,846 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,846 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,846 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,856 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,856 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,856 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,866 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:19,866 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,866 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,868 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:19,868 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:19,868 - Inference Time: 0.512838 ms
+2024-05-29 12:05:19,883 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:19,883 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,883 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,895 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:19,895 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:19,895 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,918 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:19,918 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,918 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,978 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:19,978 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:19,978 - Inference Time: 0.000000 ms
+2024-05-29 12:05:19,990 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:19,990 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:19,990 - Inference Time: 0.512838 ms
+2024-05-29 12:05:20,014 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:20,014 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,014 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,023 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,024 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,024 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,038 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:20,038 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,038 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,066 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:20,066 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,066 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,074 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,074 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,074 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,092 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:20,092 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,092 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,098 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:20,098 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,098 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,116 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:20,116 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,116 - Inference Time: 1.119375 ms
+2024-05-29 12:05:20,136 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:20,136 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,136 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,142 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:20,142 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,142 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,174 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:20,174 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,174 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,182 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:20,182 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,182 - Inference Time: 0.091791 ms
+2024-05-29 12:05:20,221 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:20,221 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,221 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,250 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:20,250 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,250 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,266 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:20,266 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,266 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,268 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:20,268 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,268 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,284 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,284 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,284 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,309 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,309 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,309 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,317 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:20,317 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,317 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,335 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:20,335 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:20,335 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,347 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:20,347 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,347 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,355 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:20,355 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,355 - Inference Time: 0.998259 ms
+2024-05-29 12:05:20,365 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:20,365 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,365 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,378 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:20,379 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,379 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,385 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:20,385 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,385 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,389 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:20,389 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,389 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,401 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,401 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,401 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,451 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,451 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,451 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,472 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:20,473 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,473 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,477 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:20,477 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,477 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,505 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:20,505 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,505 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,508 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:20,509 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,509 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,521 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:20,521 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:20,521 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,556 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:20,556 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,556 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,564 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,564 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,564 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,582 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:20,582 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,582 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,605 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,605 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,605 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,636 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,636 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,636 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,658 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:20,658 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,658 - Inference Time: 0.513554 ms
+2024-05-29 12:05:20,660 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:20,660 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,660 - Inference Time: 0.048399 ms
+2024-05-29 12:05:20,691 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:20,691 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,691 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,706 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:20,706 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,706 - Inference Time: 0.514984 ms
+2024-05-29 12:05:20,739 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:20,739 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,739 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,766 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:20,766 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,766 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,788 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:20,788 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,788 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,800 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,800 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,800 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,808 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:20,808 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,808 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,817 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:20,817 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,817 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,825 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:20,825 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:20,825 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,844 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:20,844 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,844 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,845 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:20,845 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:20,845 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,861 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:20,861 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,861 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,895 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:20,895 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,895 - Inference Time: 0.081301 ms
+2024-05-29 12:05:20,910 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:20,910 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,910 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,952 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:20,952 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,952 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,958 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:20,958 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:20,958 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,960 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:20,960 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:20,960 - Inference Time: 0.000000 ms
+2024-05-29 12:05:20,984 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:20,984 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:20,984 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,000 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:21,000 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,000 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,004 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:21,004 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:21,004 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,006 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:21,006 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,006 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,038 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:21,038 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,038 - Inference Time: 0.086308 ms
+2024-05-29 12:05:21,041 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:21,042 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,042 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,109 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:21,109 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,109 - Inference Time: 0.570774 ms
+2024-05-29 12:05:21,136 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,136 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,136 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,161 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:21,161 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,161 - Inference Time: 0.523329 ms
+2024-05-29 12:05:21,174 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:21,174 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,174 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,193 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:21,193 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,193 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,202 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:21,202 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:21,202 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,220 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,220 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,220 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,235 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:21,235 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,235 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,243 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,243 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,243 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,249 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:21,249 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:21,249 - Inference Time: 0.511646 ms
+2024-05-29 12:05:21,273 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:21,274 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:21,274 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,284 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:21,284 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:21,284 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,304 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,304 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,304 - Inference Time: 1.507998 ms
+2024-05-29 12:05:21,315 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:21,315 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,315 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,319 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:21,319 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:21,319 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,327 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:21,327 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,327 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,329 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:21,329 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,329 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,358 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:21,358 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:21,358 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,366 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:21,366 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,366 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,381 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:21,381 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,381 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,419 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:21,419 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,419 - Inference Time: 0.091314 ms
+2024-05-29 12:05:21,446 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:21,446 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,446 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,494 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:21,494 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:21,494 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,497 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,497 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,497 - Inference Time: 0.189304 ms
+2024-05-29 12:05:21,507 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:21,507 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,507 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,513 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:21,513 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,513 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,525 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:21,525 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,525 - Inference Time: 0.507355 ms
+2024-05-29 12:05:21,552 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:21,552 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,552 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,565 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:21,565 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,565 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,612 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:21,612 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,612 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,622 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:21,622 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:21,622 - Inference Time: 0.073671 ms
+2024-05-29 12:05:21,649 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,649 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,649 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,653 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:21,653 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,653 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,699 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:21,699 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,699 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,736 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:21,736 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,736 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,740 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:21,740 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,740 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,746 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:21,746 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,746 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,754 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,754 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,754 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,760 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:21,760 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:21,760 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,766 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:21,766 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:21,766 - Inference Time: 0.072002 ms
+2024-05-29 12:05:21,774 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:21,774 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,774 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,826 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:21,826 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:21,826 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,842 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:21,842 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,842 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,846 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:21,846 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:21,846 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,853 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:21,853 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:21,853 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,915 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:21,915 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,915 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,945 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:21,945 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,945 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,950 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:21,950 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,950 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,957 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:21,957 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:21,957 - Inference Time: 0.000000 ms
+2024-05-29 12:05:21,983 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:21,983 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:21,983 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,000 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:22,000 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,000 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,051 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:22,051 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,051 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,058 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:22,058 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,058 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,064 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:22,064 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,064 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,072 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:22,072 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,072 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,081 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:22,081 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:22,081 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,095 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:22,095 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,095 - Inference Time: 0.088692 ms
+2024-05-29 12:05:22,097 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:22,097 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,097 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,099 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:22,099 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,099 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,150 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:22,150 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,150 - Inference Time: 0.084400 ms
+2024-05-29 12:05:22,165 - Received CAN data - ID: 291, Data: [14, 11, 4, 4, 3, 3, 8, 12]
+2024-05-29 12:05:22,165 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,165 - Inference Time: 0.021458 ms
+2024-05-29 12:05:22,167 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:22,167 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,167 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,174 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:22,174 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:22,174 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,181 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:22,181 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,181 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,192 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:22,192 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:22,192 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,198 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:22,198 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:22,198 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,213 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:22,213 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,214 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,251 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:22,251 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,251 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,274 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:22,274 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,274 - Inference Time: 0.081539 ms
+2024-05-29 12:05:22,281 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:22,281 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,282 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,289 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:22,289 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,289 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,308 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:22,308 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:22,308 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,329 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:22,329 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,329 - Inference Time: 0.512838 ms
+2024-05-29 12:05:22,337 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:22,337 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,337 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,352 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:22,352 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,352 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,383 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:22,384 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,384 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,415 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:22,415 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,415 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,422 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:22,422 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:22,422 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,496 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:22,496 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,496 - Inference Time: 0.512838 ms
+2024-05-29 12:05:22,507 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:22,507 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:22,507 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,550 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:22,550 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,550 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,554 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:22,554 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,554 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,556 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:22,556 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,556 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,564 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:22,564 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,564 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,583 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:22,583 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,583 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,591 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:22,591 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,591 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,627 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:22,627 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,627 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,636 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:22,636 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,636 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,638 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:22,638 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,638 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,648 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:22,648 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,648 - Inference Time: 1.008749 ms
+2024-05-29 12:05:22,655 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:22,655 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,655 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,657 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:22,657 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,657 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,679 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:22,680 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,680 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,682 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:22,682 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,682 - Inference Time: 0.080347 ms
+2024-05-29 12:05:22,684 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:22,684 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:22,684 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,699 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:22,699 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,699 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,707 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:22,707 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,707 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,716 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:22,716 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,716 - Inference Time: 0.080585 ms
+2024-05-29 12:05:22,755 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:22,756 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,756 - Inference Time: 0.513077 ms
+2024-05-29 12:05:22,757 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:22,757 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,757 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,778 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:22,778 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,778 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,810 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:22,810 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,810 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,812 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:22,812 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,812 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,836 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:22,836 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:22,836 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,840 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:22,840 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,840 - Inference Time: 0.511646 ms
+2024-05-29 12:05:22,845 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:22,845 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,846 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,862 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:22,862 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,862 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,868 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:22,868 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:22,868 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,872 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:22,872 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,872 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,878 - Received CAN data - ID: 291, Data: [14, 11, 4, 4, 3, 3, 8, 12]
+2024-05-29 12:05:22,878 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,878 - Inference Time: 0.504971 ms
+2024-05-29 12:05:22,883 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:22,883 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:22,883 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,906 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:22,906 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,906 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,921 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:22,921 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,921 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,933 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:22,933 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,933 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,934 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:22,934 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,934 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,939 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:22,939 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,939 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,944 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:22,944 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,944 - Inference Time: 0.007391 ms
+2024-05-29 12:05:22,972 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:22,972 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,972 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,976 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:22,976 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:22,976 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,980 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:22,980 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,980 - Inference Time: 0.000000 ms
+2024-05-29 12:05:22,992 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:22,992 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,992 - Inference Time: 0.103474 ms
+2024-05-29 12:05:22,999 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:22,999 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:22,999 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,001 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:23,001 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,001 - Inference Time: 0.512600 ms
+2024-05-29 12:05:23,018 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:23,018 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,018 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,053 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:23,054 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:23,054 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,068 - Received CAN data - ID: 291, Data: [14, 11, 4, 4, 3, 3, 8, 12]
+2024-05-29 12:05:23,069 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,069 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,119 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:23,120 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,120 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,131 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:23,131 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,131 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,154 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:23,154 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:23,154 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,155 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:23,156 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,156 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,165 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,165 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,165 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,177 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:23,177 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,177 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,184 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:23,185 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,185 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,196 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:23,196 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,196 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,218 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:23,218 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,218 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,230 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:23,230 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,230 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,242 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:23,242 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,242 - Inference Time: 0.507116 ms
+2024-05-29 12:05:23,260 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,260 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,260 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,304 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:23,304 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,304 - Inference Time: 0.506639 ms
+2024-05-29 12:05:23,323 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:23,324 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:23,324 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,332 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:23,332 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,332 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,345 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,345 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,345 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,355 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:23,355 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,355 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,365 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:23,366 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,366 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,367 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:23,367 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,367 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,385 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,385 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,385 - Inference Time: 0.075102 ms
+2024-05-29 12:05:23,395 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:23,395 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,395 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,403 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,403 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,403 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,407 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:23,407 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,407 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,444 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:23,444 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,444 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,450 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:23,450 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,450 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,456 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:23,456 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,456 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,460 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:23,460 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,460 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,474 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:23,474 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,474 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,486 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,486 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,486 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,498 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:23,498 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,498 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,508 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:23,508 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,508 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,526 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:23,526 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,526 - Inference Time: 0.506401 ms
+2024-05-29 12:05:23,585 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,585 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,585 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,600 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,600 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,600 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,620 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:23,620 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:23,620 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,630 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:23,630 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,630 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,650 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:23,650 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,650 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,652 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,652 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,652 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,656 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:23,656 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,656 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,691 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:23,691 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,691 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,712 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:23,712 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:23,712 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,719 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:23,719 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,719 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,729 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,730 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:23,730 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,749 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,749 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,749 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,752 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:23,752 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,752 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,780 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:23,780 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,780 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,799 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:23,799 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,799 - Inference Time: 0.506878 ms
+2024-05-29 12:05:23,801 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:23,801 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,801 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,822 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:23,822 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,822 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,827 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:23,827 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,827 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,835 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:23,835 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,835 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,884 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:23,884 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:23,884 - Inference Time: 0.507116 ms
+2024-05-29 12:05:23,910 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:23,910 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,910 - Inference Time: 0.077248 ms
+2024-05-29 12:05:23,923 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:23,923 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,923 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,934 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:23,934 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,934 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,936 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:23,936 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,936 - Inference Time: 0.506878 ms
+2024-05-29 12:05:23,938 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:23,938 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:23,938 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,940 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:23,940 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,940 - Inference Time: 0.075102 ms
+2024-05-29 12:05:23,944 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:23,944 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:23,944 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,946 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:23,946 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:23,946 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,974 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:23,974 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:23,974 - Inference Time: 0.000000 ms
+2024-05-29 12:05:23,990 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:23,990 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:23,990 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,020 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:24,020 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,020 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,030 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:24,030 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,030 - Inference Time: 0.113010 ms
+2024-05-29 12:05:24,049 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:24,049 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,049 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,059 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:24,059 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,059 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,071 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:24,071 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,071 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,090 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:24,090 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,090 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,123 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:24,123 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,123 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,151 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:24,151 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,151 - Inference Time: 0.065327 ms
+2024-05-29 12:05:24,183 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:24,183 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,183 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,201 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:24,201 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:24,201 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,221 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:24,221 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,221 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,225 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:24,225 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,225 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,248 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:24,248 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,248 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,268 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,268 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,268 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,280 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:24,280 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,280 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,285 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:24,285 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,285 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,291 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:24,291 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,291 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,309 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:24,309 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:24,309 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,313 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:24,313 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,313 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,319 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:24,319 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,319 - Inference Time: 0.506639 ms
+2024-05-29 12:05:24,335 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:24,335 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,335 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,338 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:24,338 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,338 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,355 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:24,355 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,355 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,379 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:24,379 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,379 - Inference Time: 0.496387 ms
+2024-05-29 12:05:24,383 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:24,383 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:24,383 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,409 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:24,409 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,409 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,425 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:24,425 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,425 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,448 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:24,448 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,448 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,468 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:24,468 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,468 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,482 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:24,482 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,482 - Inference Time: 0.506878 ms
+2024-05-29 12:05:24,490 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,490 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,490 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,498 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,498 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,498 - Inference Time: 0.506878 ms
+2024-05-29 12:05:24,510 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:24,510 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,510 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,516 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:24,516 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:24,516 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,522 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:24,522 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,522 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,568 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,568 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,568 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,592 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:24,592 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,592 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,594 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:24,594 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,594 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,622 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,622 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,622 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,637 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:24,637 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,637 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,645 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:24,645 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:24,645 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,651 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:24,651 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,651 - Inference Time: 0.205278 ms
+2024-05-29 12:05:24,656 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:24,656 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,656 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,657 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:24,657 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,657 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,662 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:24,662 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:24,662 - Inference Time: 0.506878 ms
+2024-05-29 12:05:24,688 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,688 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,688 - Inference Time: 0.089407 ms
+2024-05-29 12:05:24,694 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:24,694 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,694 - Inference Time: 1.002312 ms
+2024-05-29 12:05:24,699 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:24,700 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,700 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,720 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,720 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,720 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,734 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:24,734 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,734 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,767 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:24,768 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,768 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,776 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:24,776 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,776 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,814 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:24,814 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,814 - Inference Time: 0.084639 ms
+2024-05-29 12:05:24,822 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:24,822 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,822 - Inference Time: 0.078917 ms
+2024-05-29 12:05:24,839 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:24,839 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,839 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,844 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,844 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,844 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,865 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:24,865 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:24,865 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,875 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:24,875 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,875 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,881 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:24,881 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,881 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,887 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:24,887 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:24,887 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,890 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,890 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:24,890 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,893 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,893 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,893 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,900 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:24,900 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,900 - Inference Time: 0.003815 ms
+2024-05-29 12:05:24,905 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,906 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,906 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,922 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:24,922 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:24,922 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,931 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:24,932 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:24,932 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,937 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:24,937 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:24,938 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,940 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:24,940 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:24,940 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,961 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:24,961 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:24,961 - Inference Time: 0.000000 ms
+2024-05-29 12:05:24,999 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:24,999 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:24,999 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,012 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:25,013 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,013 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,019 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:25,019 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:25,019 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,031 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:25,031 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,031 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,115 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:25,115 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,115 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,145 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:25,145 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,145 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,155 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:25,155 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,155 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,168 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:25,168 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:25,168 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,205 - Received CAN data - ID: 291, Data: [2, 4, 10, 11, 11, 1, 0, 0]
+2024-05-29 12:05:25,205 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,205 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,224 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:25,224 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,224 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,234 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:25,234 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,234 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,238 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:25,238 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:25,238 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,270 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:25,270 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,270 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,298 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:25,298 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:25,298 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,329 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:25,329 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,329 - Inference Time: 0.548601 ms
+2024-05-29 12:05:25,353 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:25,353 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,353 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,368 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:25,368 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,368 - Inference Time: 0.192165 ms
+2024-05-29 12:05:25,384 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,384 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:25,384 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,403 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,403 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:25,403 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,411 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:25,411 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,411 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,413 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:25,413 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:25,413 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,416 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:25,416 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,417 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,442 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:25,443 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:25,443 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,470 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:25,471 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,471 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,482 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:25,482 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,482 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,497 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:25,497 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,497 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,515 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:25,515 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,515 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,519 - Received CAN data - ID: 291, Data: [2, 4, 10, 11, 11, 1, 0, 0]
+2024-05-29 12:05:25,519 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,519 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,568 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:25,568 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:25,568 - Inference Time: 0.078917 ms
+2024-05-29 12:05:25,583 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,583 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:25,583 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,597 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:25,597 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,597 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,613 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:25,613 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,614 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,615 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:25,615 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,615 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,621 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:25,621 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,621 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,645 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:25,645 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,645 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,648 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:25,648 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,648 - Inference Time: 0.514746 ms
+2024-05-29 12:05:25,667 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,668 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,668 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,699 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:25,699 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,699 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,752 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,752 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,753 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,759 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,759 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:25,759 - Inference Time: 0.516653 ms
+2024-05-29 12:05:25,780 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:25,780 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,780 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,787 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:25,787 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,787 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,844 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:25,844 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:25,844 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,848 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:25,848 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:25,848 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,859 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:25,859 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,859 - Inference Time: 0.081539 ms
+2024-05-29 12:05:25,860 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:25,861 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,861 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,878 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:25,878 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,878 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,890 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:25,891 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:25,891 - Inference Time: 0.513315 ms
+2024-05-29 12:05:25,898 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:25,898 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,899 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,909 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,909 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:25,909 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,918 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:25,918 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:25,918 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,940 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:25,940 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:25,940 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,958 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:25,958 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:25,958 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,972 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:25,973 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:25,973 - Inference Time: 0.512362 ms
+2024-05-29 12:05:25,981 - Received CAN data - ID: 291, Data: [14, 11, 4, 4, 3, 3, 8, 12]
+2024-05-29 12:05:25,981 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:25,981 - Inference Time: 0.000000 ms
+2024-05-29 12:05:25,987 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:25,987 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:25,987 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,002 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:26,002 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,002 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,016 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:26,016 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,016 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,020 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,020 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,020 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,038 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,038 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,038 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,040 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:26,041 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,041 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,047 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:26,047 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,047 - Inference Time: 0.513315 ms
+2024-05-29 12:05:26,051 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:26,051 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:26,051 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,055 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:26,055 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,055 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,074 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:26,074 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,074 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,160 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:26,160 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,160 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,164 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:26,164 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,164 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,166 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:26,166 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,166 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,196 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:26,196 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,196 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,230 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:26,230 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,230 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,236 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:26,236 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,236 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,244 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:26,244 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,244 - Inference Time: 0.514746 ms
+2024-05-29 12:05:26,267 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:26,267 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,267 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,282 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:26,282 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,282 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,312 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:26,312 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,312 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,313 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:26,313 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,314 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,338 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:26,338 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,338 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,340 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,340 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,340 - Inference Time: 0.076532 ms
+2024-05-29 12:05:26,345 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,345 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,345 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,354 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:26,354 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,354 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,360 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:26,360 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,360 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,380 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:26,380 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,380 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,394 - Received CAN data - ID: 291, Data: [2, 4, 10, 11, 11, 1, 0, 0]
+2024-05-29 12:05:26,394 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,394 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,423 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:26,423 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,423 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,452 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:26,452 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,452 - Inference Time: 0.291348 ms
+2024-05-29 12:05:26,469 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:26,469 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,469 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,471 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,471 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,471 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,508 - Received CAN data - ID: 291, Data: [14, 11, 4, 4, 3, 3, 8, 12]
+2024-05-29 12:05:26,508 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,508 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,511 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,511 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,511 - Inference Time: 0.507593 ms
+2024-05-29 12:05:26,535 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:26,535 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,535 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,556 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:26,556 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,557 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,563 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:26,563 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,563 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,571 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:26,571 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,571 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,596 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:26,597 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:26,597 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,603 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:26,603 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,603 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,605 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:26,605 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:26,605 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,612 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:26,612 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,612 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,616 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,616 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,616 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,620 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:26,620 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,620 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,624 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,624 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:26,624 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,630 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:26,630 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:26,630 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,633 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:26,633 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,633 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,635 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:26,635 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,635 - Inference Time: 0.514030 ms
+2024-05-29 12:05:26,641 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:26,641 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,641 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,648 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:26,648 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:26,648 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,700 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:26,700 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,700 - Inference Time: 0.513554 ms
+2024-05-29 12:05:26,719 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:26,719 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,719 - Inference Time: 0.087500 ms
+2024-05-29 12:05:26,721 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:26,721 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,721 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,754 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:26,754 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,754 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,756 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:26,756 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,757 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,775 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:26,776 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:26,776 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,778 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:26,778 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,778 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,809 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:26,810 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,810 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,811 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:26,811 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,811 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,827 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:26,827 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,827 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,901 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:26,901 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,901 - Inference Time: 0.513315 ms
+2024-05-29 12:05:26,903 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:26,903 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,903 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,905 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:26,905 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,905 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,930 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:26,931 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,931 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,954 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:26,954 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,954 - Inference Time: 0.495195 ms
+2024-05-29 12:05:26,956 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:26,957 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:26,957 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,965 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:26,965 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,965 - Inference Time: 0.000000 ms
+2024-05-29 12:05:26,978 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:26,978 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:26,978 - Inference Time: 0.084639 ms
+2024-05-29 12:05:26,983 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:26,983 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:26,983 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,006 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:27,006 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,006 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,021 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:27,021 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,021 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,034 - Received CAN data - ID: 291, Data: [2, 4, 10, 11, 11, 1, 0, 0]
+2024-05-29 12:05:27,034 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,034 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,045 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:27,045 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,045 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,099 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:27,099 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,099 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,165 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:27,165 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,165 - Inference Time: 0.515461 ms
+2024-05-29 12:05:27,183 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:27,183 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,183 - Inference Time: 0.087500 ms
+2024-05-29 12:05:27,193 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:27,193 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,193 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,215 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:27,215 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,215 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,245 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,245 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,246 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,279 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:27,279 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,279 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,311 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:27,311 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,311 - Inference Time: 0.515699 ms
+2024-05-29 12:05:27,315 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,315 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:27,315 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,320 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:27,320 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,320 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,324 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:27,324 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,324 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,331 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:27,331 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,331 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,333 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:27,333 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,333 - Inference Time: 0.513315 ms
+2024-05-29 12:05:27,337 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:27,337 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,337 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,366 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:27,367 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:27,367 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,416 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:27,416 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,416 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,423 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:27,423 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,423 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,425 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:27,425 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,425 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,434 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,434 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,434 - Inference Time: 0.102043 ms
+2024-05-29 12:05:27,449 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:27,449 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,449 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,451 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:27,451 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:27,451 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,454 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:27,454 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,454 - Inference Time: 0.511646 ms
+2024-05-29 12:05:27,469 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:27,469 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,469 - Inference Time: 0.497341 ms
+2024-05-29 12:05:27,474 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:27,474 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,474 - Inference Time: 0.496626 ms
+2024-05-29 12:05:27,487 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:27,487 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,487 - Inference Time: 0.516891 ms
+2024-05-29 12:05:27,499 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:27,500 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,500 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,504 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:27,504 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:27,504 - Inference Time: 0.513792 ms
+2024-05-29 12:05:27,530 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:27,531 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,531 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,535 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:27,535 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,535 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,539 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:27,539 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,539 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,546 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:27,546 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,546 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,552 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:27,552 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,552 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,555 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:27,555 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,555 - Inference Time: 0.498056 ms
+2024-05-29 12:05:27,568 - Received CAN data - ID: 291, Data: [1, 7, 6, 10, 14, 15, 15, 8]
+2024-05-29 12:05:27,568 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,568 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,570 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:27,570 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,570 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,590 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:27,590 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,590 - Inference Time: 0.085115 ms
+2024-05-29 12:05:27,598 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:27,599 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,599 - Inference Time: 0.505686 ms
+2024-05-29 12:05:27,605 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:27,605 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,605 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,609 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,610 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,610 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,611 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:27,611 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,612 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,630 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,630 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:27,630 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,632 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:27,632 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,632 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,647 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:27,647 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,647 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,666 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,666 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:27,667 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,669 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:27,669 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,669 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,688 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,688 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:27,688 - Inference Time: 0.202894 ms
+2024-05-29 12:05:27,725 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:27,725 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,725 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,747 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:27,747 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,747 - Inference Time: 0.070810 ms
+2024-05-29 12:05:27,752 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,752 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:27,752 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,770 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:27,770 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,770 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,785 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:27,785 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,785 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,796 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:27,796 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,796 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,814 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:27,814 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,814 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,816 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:27,816 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,816 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,825 - Received CAN data - ID: 291, Data: [14, 11, 4, 4, 3, 3, 8, 12]
+2024-05-29 12:05:27,825 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,825 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,849 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:27,849 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,849 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,876 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:27,876 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,877 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,879 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:27,879 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:27,879 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,887 - Received CAN data - ID: 291, Data: [2, 4, 10, 11, 11, 1, 0, 0]
+2024-05-29 12:05:27,887 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:27,887 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,889 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:27,889 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,889 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,906 - Received CAN data - ID: 476, Data: [2, 7, 177, 239, 0, 0, 0, 0]
+2024-05-29 12:05:27,906 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,906 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,908 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:27,908 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,908 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,912 - Received CAN data - ID: 476, Data: [2, 30, 245, 3, 0, 0, 0, 0]
+2024-05-29 12:05:27,912 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,912 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,931 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:27,931 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:27,931 - Inference Time: 0.516176 ms
+2024-05-29 12:05:27,939 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:27,939 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:27,939 - Inference Time: 0.512838 ms
+2024-05-29 12:05:27,950 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:27,950 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:27,950 - Inference Time: 0.000000 ms
+2024-05-29 12:05:27,952 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:27,952 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:27,952 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,000 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:28,000 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,000 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,004 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:28,004 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,004 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,010 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:28,010 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,010 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,014 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:28,014 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,014 - Inference Time: 0.513315 ms
+2024-05-29 12:05:28,035 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:28,035 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,035 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,060 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:28,060 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,060 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,064 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:28,064 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,064 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,093 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:28,093 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,093 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,101 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:28,102 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,102 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,116 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:28,116 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,116 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,122 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:28,122 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,122 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,147 - Received CAN data - ID: 291, Data: [3, 3, 0, 9, 7, 3, 7, 4]
+2024-05-29 12:05:28,147 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,147 - Inference Time: 0.505209 ms
+2024-05-29 12:05:28,170 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,170 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,170 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,172 - Received CAN data - ID: 291, Data: [9, 8, 4, 5, 3, 1, 7, 15]
+2024-05-29 12:05:28,172 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,172 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,174 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:28,174 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,174 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,185 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:28,185 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,185 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,236 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:28,236 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,237 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,245 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,246 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,246 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,254 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:28,254 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,254 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,259 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:28,259 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,259 - Inference Time: 0.491381 ms
+2024-05-29 12:05:28,262 - Received CAN data - ID: 291, Data: [1, 5, 9, 7, 0, 11, 15, 4]
+2024-05-29 12:05:28,262 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,262 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,269 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:28,269 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,269 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,272 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:28,272 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:28,272 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,278 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:28,278 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,278 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,295 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:28,295 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,295 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,328 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,329 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,329 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,331 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:28,331 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,331 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,334 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:28,335 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,335 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,349 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:28,349 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,349 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,428 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:28,428 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:28,428 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,468 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,468 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,468 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,491 - Received CAN data - ID: 344, Data: [6, 12, 6, 51, 6, 26, 2, 54]
+2024-05-29 12:05:28,491 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,491 - Inference Time: 0.513554 ms
+2024-05-29 12:05:28,494 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:28,494 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:28,494 - Inference Time: 0.113964 ms
+2024-05-29 12:05:28,506 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,506 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,506 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,508 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:28,508 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,508 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,514 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:28,514 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,515 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,530 - Received CAN data - ID: 291, Data: [2, 4, 10, 11, 11, 1, 0, 0]
+2024-05-29 12:05:28,530 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,530 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,545 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:28,545 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,545 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,570 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:28,570 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,570 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,589 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:28,589 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,589 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,615 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:28,615 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,615 - Inference Time: 0.501156 ms
+2024-05-29 12:05:28,623 - Received CAN data - ID: 476, Data: [2, 15, 60, 3, 0, 0, 0, 0]
+2024-05-29 12:05:28,624 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,624 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,628 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:28,628 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:28,628 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,634 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:28,634 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,634 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,656 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:28,656 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,656 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,669 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:28,669 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,669 - Inference Time: 0.495434 ms
+2024-05-29 12:05:28,673 - Received CAN data - ID: 291, Data: [3, 2, 13, 13, 10, 15, 2, 4]
+2024-05-29 12:05:28,673 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,673 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,698 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:28,698 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,698 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,703 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:28,703 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,703 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,726 - Received CAN data - ID: 291, Data: [14, 11, 4, 4, 3, 3, 8, 12]
+2024-05-29 12:05:28,726 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,726 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,733 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:28,733 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,733 - Inference Time: 0.133514 ms
+2024-05-29 12:05:28,735 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:28,735 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,735 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,757 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:28,757 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:28,757 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,781 - Received CAN data - ID: 128, Data: [194, 1, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:28,782 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:28,782 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,794 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,794 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,794 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,801 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,801 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,801 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,820 - Received CAN data - ID: 291, Data: [9, 9, 11, 4, 14, 3, 8, 0]
+2024-05-29 12:05:28,820 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,820 - Inference Time: 0.509262 ms
+2024-05-29 12:05:28,822 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:28,822 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,822 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,824 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:28,824 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,824 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,828 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:28,828 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,828 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,833 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:28,833 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,833 - Inference Time: 0.081778 ms
+2024-05-29 12:05:28,843 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:28,843 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,843 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,848 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:28,848 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:28,848 - Inference Time: 0.052214 ms
+2024-05-29 12:05:28,856 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:28,856 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:28,856 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,864 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:28,864 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,864 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,938 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:28,938 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:28,938 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,951 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:28,951 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,951 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,958 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:28,958 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,958 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,965 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:28,965 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:28,965 - Inference Time: 0.000000 ms
+2024-05-29 12:05:28,990 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:28,990 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:28,990 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,020 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:29,020 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,020 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,025 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:29,025 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:29,025 - Inference Time: 1.017570 ms
+2024-05-29 12:05:29,039 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:29,039 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:29,039 - Inference Time: 0.515461 ms
+2024-05-29 12:05:29,055 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:29,055 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,055 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,063 - Received CAN data - ID: 291, Data: [10, 15, 13, 6, 7, 11, 14, 7]
+2024-05-29 12:05:29,063 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,063 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,065 - Received CAN data - ID: 291, Data: [10, 11, 2, 12, 5, 13, 1, 14]
+2024-05-29 12:05:29,065 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,065 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,088 - Received CAN data - ID: 344, Data: [6, 16, 6, 54, 6, 29, 2, 14]
+2024-05-29 12:05:29,088 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:29,088 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,090 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:29,090 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:29,090 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,147 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:29,147 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:29,147 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,161 - Received CAN data - ID: 128, Data: [132, 3, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:29,161 - Detected: Attack, Category: Spoofing, Specific Class: Steering Wheel
+2024-05-29 12:05:29,161 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,164 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:29,164 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,164 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,170 - Received CAN data - ID: 513, Data: [160, 15, 3, 37, 168, 53, 148, 34]
+2024-05-29 12:05:29,170 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,170 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,172 - Received CAN data - ID: 291, Data: [15, 10, 0, 13, 9, 1, 1, 11]
+2024-05-29 12:05:29,172 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,172 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,177 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:29,177 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,177 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,220 - Received CAN data - ID: 291, Data: [5, 3, 8, 9, 6, 7, 14, 2]
+2024-05-29 12:05:29,220 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,220 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,295 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:29,295 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,296 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,301 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:29,301 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:29,301 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,313 - Received CAN data - ID: 291, Data: [15, 9, 13, 9, 11, 9, 11, 8]
+2024-05-29 12:05:29,313 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,313 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,358 - Received CAN data - ID: 291, Data: [13, 2, 7, 14, 14, 1, 10, 11]
+2024-05-29 12:05:29,358 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,358 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,366 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 0, 125]
+2024-05-29 12:05:29,366 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:29,366 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,386 - Received CAN data - ID: 476, Data: [2, 23, 84, 221, 0, 0, 0, 0]
+2024-05-29 12:05:29,387 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,387 - Inference Time: 0.504732 ms
+2024-05-29 12:05:29,398 - Received CAN data - ID: 513, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:29,398 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,398 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,407 - Received CAN data - ID: 344, Data: [6, 20, 6, 57, 6, 33, 2, 17]
+2024-05-29 12:05:29,407 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:29,407 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,421 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:29,421 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,421 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,433 - Received CAN data - ID: 291, Data: [8, 3, 11, 4, 6, 0, 12, 3]
+2024-05-29 12:05:29,433 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,433 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,457 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:29,457 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,457 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,484 - Received CAN data - ID: 476, Data: [2, 61, 23, 19, 0, 0, 0, 0]
+2024-05-29 12:05:29,484 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,484 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,504 - Received CAN data - ID: 291, Data: [9, 13, 8, 6, 4, 3, 5, 14]
+2024-05-29 12:05:29,504 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,504 - Inference Time: 0.504732 ms
+2024-05-29 12:05:29,518 - Received CAN data - ID: 291, Data: [7, 14, 1, 5, 13, 0, 11, 11]
+2024-05-29 12:05:29,518 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,518 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,553 - Received CAN data - ID: 291, Data: [11, 11, 10, 1, 11, 11, 8, 5]
+2024-05-29 12:05:29,553 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,553 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,585 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 100, 0, 2, 0]
+2024-05-29 12:05:29,585 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:29,585 - Inference Time: 0.504732 ms
+2024-05-29 12:05:29,589 - Received CAN data - ID: 513, Data: [64, 31, 2, 35, 24, 5, 138, 34]
+2024-05-29 12:05:29,589 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,589 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,601 - Received CAN data - ID: 291, Data: [5, 6, 3, 0, 8, 15, 7, 9]
+2024-05-29 12:05:29,601 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,601 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,633 - Received CAN data - ID: 344, Data: [6, 28, 6, 63, 6, 42, 2, 41]
+2024-05-29 12:05:29,633 - Detected: Attack, Category: Spoofing, Specific Class: Speed
+2024-05-29 12:05:29,633 - Inference Time: 0.073671 ms
+2024-05-29 12:05:29,635 - Received CAN data - ID: 476, Data: [2, 53, 221, 69, 0, 0, 0, 0]
+2024-05-29 12:05:29,635 - Detected: Attack, Category: Spoofing, Specific Class: RPM
+2024-05-29 12:05:29,635 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,637 - Received CAN data - ID: 291, Data: [3, 1, 6, 7, 8, 10, 2, 5]
+2024-05-29 12:05:29,637 - Detected: Attack, Category: DoS, Specific Class: DoS
+2024-05-29 12:05:29,637 - Inference Time: 0.000000 ms
+2024-05-29 12:05:29,659 - Received CAN data - ID: 513, Data: [0, 0, 0, 0, 0, 0, 64, 156]
+2024-05-29 12:05:29,659 - Detected: Attack, Category: Spoofing, Specific Class: Gas
+2024-05-29 12:05:29,659 - Inference Time: 0.000000 ms
+2024-06-03 08:52:51,168 - Using device: cpu

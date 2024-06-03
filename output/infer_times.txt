@@ -1,0 +1,6 @@
+Average Inference Time for Benign: 0.070393 ms (n=43600)
+Average Inference Time for DoS: 0.069451 ms (n=2600)
+Average Inference Time for RPM: 0.068319 ms (n=1900)
+Average Inference Time for Speed: 0.071897 ms (n=800)
+Average Inference Time for Steering Wheel: 0.055038 ms (n=600)
+Average Inference Time for Gas: 0.075892 ms (n=300)
